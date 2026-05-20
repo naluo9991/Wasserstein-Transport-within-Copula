@@ -1,1 +1,1 @@
-# Wasserstein-Transport-within-Copula
+# Wasserstein-Transport-between-Copulas
